@@ -7,7 +7,7 @@
         "MusicPlayer",
         "VideoPlayer"
     ],
-    "repository": "https://github.com/Mr-dark-prince/EvaMaria",
+    "repository": "https://github.com/Rishabhbhansingh1/Vc-Player",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
